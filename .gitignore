@@ -18,3 +18,4 @@
 *.iml
 app/app.iml
 *.apk
+gradlew.bat
