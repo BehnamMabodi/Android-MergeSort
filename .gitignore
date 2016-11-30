@@ -5,6 +5,7 @@
 .DS_Store
 /build
 /captures
+/gradle
 
 # Log Files
 *.log
